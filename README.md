@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/NOOS Widgets_20260905_115829_0000.png" alt="NOOS Widgets Banner" width="100%">
+</p>
+
 # NOOS Widgets
 
 <p align="center">

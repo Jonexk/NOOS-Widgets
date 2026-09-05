@@ -9,7 +9,7 @@
 
 ## 📱 About The Project
 
-**NOOS Widgets** is a carefully curated collection of custom presets designed for users who appreciate minimalism, typography, and clean user interfaces. Every single widget is crafted to blend seamlessly with dynamic wallpapers and dark/light system setups.
+**NOOS Widgets** is made up of widgets inspired by Nothing Phones. All the widgets in this pack are taken from images of Nothing Phone setups. I wanted to create this widget pack so anyone can customize their home screen like a Nothing Phone for free, made by me for the entire community <3..
 
 * **Total Presets:** 40 Widgets
 * **Aesthetic:** Dot-Matrix & Nothing OS UI
@@ -72,5 +72,5 @@ If you experience any issues with missing fonts, broken icons, scaling mismatche
 ---
 
 <p align="center">
-  <b>Crafted with passion by Jonex • Joxx Studio</b>
+  <b>Crafted with love by Jonex</b>
 </p>

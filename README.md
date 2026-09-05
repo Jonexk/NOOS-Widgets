@@ -72,5 +72,5 @@ If you experience any issues with missing fonts, broken icons, scaling mismatche
 ---
 
 <p align="center">
-  <b>Crafted with passion by Jonex • AXYS Studio</b>
+  <b>Crafted with passion by Jonex • Joxx Studio</b>
 </p>

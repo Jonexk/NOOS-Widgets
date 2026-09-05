@@ -1,7 +1,7 @@
 # NOOS Widgets
 
 <p align="center">
-  <b>A clean, pixel-crafted Nothing OS inspired widget pack for KWGT.</b><br>
+  <b>A clean and stylish widget pack inspired by Nothing OS for KWGT.</b><br>
   Designed to bring the minimalist dot-matrix aesthetic, monochrome tones, and sleek geometry directly to your Android home screen.
 </p>
 

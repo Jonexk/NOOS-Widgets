@@ -73,7 +73,7 @@ If you experience any issues with missing fonts, broken icons, scaling mismatche
 * 💬 **Direct WhatsApp Support:** `+52 997 183 9718` *(Jonex)*
 * 🐙 **GitHub:** Open an **Issue** in this repository describing your device model and launcher.
 
-* 📃 **Quick Note:** You can make a full nothing os setup including the lockscreen with N-Lock, [Get Here](https://tu-enlace.com)
+* 📃 **Quick Note:** You can make a full nothing os setup including the lockscreen with N-Lock, [Get Here](https://github.com/Jonexk/N-Lock)
 * 
 
 ---
